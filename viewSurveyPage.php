@@ -3,8 +3,8 @@
 //提交表单到另一个页面，修改表对应的值，显示投票比例
 //连接数据库
 $servername = "localhost";
-$username = "root";
-$password = "582413929";
+$username = "rt";
+$password = "413929";
 $mysql_database = 'vote';
 $conn = new mysqli(
 		$servername, /* The host to connect to 连接MySQL地址 */
